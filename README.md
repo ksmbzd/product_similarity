@@ -1,5 +1,3 @@
-# product_similarity
-
 # Product Similarity Project
 
 ## Overview
